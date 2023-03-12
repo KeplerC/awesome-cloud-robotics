@@ -1,6 +1,6 @@
 # Awesome Cloud Robotics [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A research-oriented collection of platform, software and papers related to Cloud Robotics.
+A research-oriented collection of platforms, papers and software related to Cloud Robotics.
 
 > Cloud robotics is a field of robotics that attempts to invoke cloud technologies such as cloud computing, cloud 
 > storage, and other Internet technologies centered on the benefits of converged infrastructure and shared 
@@ -41,12 +41,14 @@ A research-oriented collection of platform, software and papers related to Cloud
 - [ROS2](https://github.com/ros2/ros2) - A new version of ROS with different design and architecture.
 - [RoboEarth](https://roboearth.ethz.ch/) - An open source platform that allows robots to store, share, offload and collaborate.
 - [ERDOS](https://github.com/erdos-project/erdos) -  A platform for developing self-driving cars.
+- [AWS IoT Greengrass](https://aws.amazon.com/greengrass/) - A cloud platform that helps build, run, manage IoT and robotic devices
 
 ### Cloud Robotics Platforms 
 - [Rapyuta](https://www.rapyuta-robotics.com/) - An open source Platform-as-a-Service (Paas) framework designed for robotics applications.
 - [FogROS2](https://github.com/BerkeleyAutomation/FogROS2) - An adaptive and extensible platform for cloud and fog Robotics Using ROS 2.
 
 ### Network Platforms 
+- [Rosbridge](http://wiki.ros.org/rosbridge_suite) - a websocket server that provides a JSON API to ROS functionality for non-ROS programs
 - [Husarnet VPN](https://github.com/husarnet/husarnet) - A P2P, secure network layer dedicated for ROS & ROS 2.
 - [FogROS2 SGC](https://github.com/data-capsule/fogros2-sgc) - An P2P secure routing framework that connects disjoint ROS2 networks across heterogenous environment.
 
@@ -58,7 +60,7 @@ A research-oriented collection of platform, software and papers related to Cloud
 - [EMS: A Massive Computational Experiment Management System towards Data-driven Robotics](https://sites.google.com/view/project-emsr) - Lin et al. ICRA 2023. 
 - [FogROS: An Adaptive Framework for Automating Fog Robotics Deployment](https://arxiv.org/abs/2108.11355) - Chen et al. CASE 2021. 
 - [FogROS2: An Adaptive Platform for Cloud and Fog Robotics Using ROS 2](https://arxiv.org/abs/2205.09778) - Ichnowski et al. ICRA 2023. 
-- [RobotCore: An Open Architecture for Hardware Acceleration in ROS 2](https://ieeexplore.ieee.org/abstract/document/9982082) Mayoral-Vilches et al. IROS 2022.
+- [RobotCore: An Open Architecture for Hardware Acceleration in ROS 2](https://ieeexplore.ieee.org/abstract/document/9982082) - Mayoral-Vilches et al. IROS 2022.
 
 ### Network 
 - [AFR: An Efficient Buffering Algorithm for Cloud Robotic Systems](https://ieeexplore.ieee.org/abstract/document/9981400) - Wang et al. IROS 2022.
@@ -71,7 +73,7 @@ A research-oriented collection of platform, software and papers related to Cloud
 ### Serverless 
 - [Fog Robotics Algorithms for Distributed Motion Planning Using Lambda Serverless Computing](https://ieeexplore.ieee.org/abstract/document/9196651) - Ichnowski et al. ICRA 2020.
 - [Serverless Architecture for Service Robot Management System](https://ieeexplore.ieee.org/abstract/document/9561824) - Nishimiya et al. ICRA 2021.
-
+- [Serverless multi-query motion planning for fog robotics](https://goldberg.berkeley.edu/pubs/ICRA21-ichnowski-serverless-motion-planning-submitted.pdf) - Anand et al. ICRA 2021
 ### Fog Robotics 
 - [A Fog Robotic System for Dynamic Visual Servoing](https://ieeexplore.ieee.org/abstract/document/8793600) - Tian et al. ICRA 2019.
 - [A Fog Robotics Approach to Deep Robot Learning: Application to Object Recognition and Grasp Planning in Surface Decluttering](https://ieeexplore.ieee.org/abstract/document/8793690) - ICRA 2019.
@@ -81,9 +83,19 @@ A research-oriented collection of platform, software and papers related to Cloud
 ### Grasp Planning
 - [A Cloud Robot System Using the Dexterity Network and Berkeley Robotics and Automation as a Service (Brass)](https://ieeexplore.ieee.org/abstract/document/7989192) - Tian et al. ICRA 2017.
 - [Dex-Net as a Service (DNaaS): A Cloud-Based Robust Robot Grasp Planning System](https://ieeexplore.ieee.org/abstract/document/8560447) - Li et al. CASE 2018.
+- [Cloud-based robot grasping with the google object recognition engine](https://ieeexplore.ieee.org/abstract/document/6631180) - Kehoe et al. ICRA 2013 
+
+### Monte-Carlo Grasp Perturbation Sampling
 
 ### HealthCare
 - [Cloud services for robotic nurses? Assessing legal and ethical issues in the use of cloud services for healthcare robots](https://ieeexplore.ieee.org/abstract/document/8593591) - Fosch-Villaronga et al. IROS 2018.
+
+### Motion and Path Planning 
+- [Path planning as a service PPaaS: Cloud-based robotic path planning](https://ieeexplore.ieee.org/document/7090603) Lam et al. ROBIO 2014. 
+- [Cloud Automation: Precomputing Roadmaps for Flexible Manipulation](https://ieeexplore.ieee.org/document/7124626) Bekris et al. IEEE Robotics & Automation Magazine 2015. 
+
+### Mapping 
+- [Cloud-Based Collaborative 3D Mapping in Real-Time With Low-Cost Robots](https://ieeexplore.ieee.org/document/7057681) Mohanarajah et al. IEEE Trans. Automation Science and Engineering 2015. 
 
 ## Conferences 
 - [IEEE International Conference on Robotics and Automation (ICRA)](http://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra)
