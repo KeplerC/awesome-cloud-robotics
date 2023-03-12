@@ -13,17 +13,19 @@ A knowledge collection of databases, software and papers related to computationa
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [Local Demo](#local-demo)
-- [Build FogROS2 SGC](#build-fogros2-sgc)
-  - [Install dependencies](#install-dependencies)
-    - [Install Rust](#install-rust)
-    - [Install ROS](#install-ros)
-    - [Build the repo](#build-the-repo)
-- [Run with Different Machines](#run-with-different-machines)
-    - [Certificate Generation](#certificate-generation)
-    - [Run with Environment Variables](#run-with-environment-variables)
-    - [Run ROS2 talker and listener](#run-ros2-talker-and-listener)
-  - [TODOs and Known issues](#todos-and-known-issues)
+- [Databases](#databases)
+  - [Compound](#compound)
+  - [Pathway](#pathway)
+  - [Mass Spectra](#mass-spectra)
+  - [Protein](#protein)
+  - [Genome](#genome)
+  - [Disease](#disease)
+  - [Interaction](#interaction)
+- [Preprocess](#preprocess)
+- [Machine Learning Tasks and Models](#machine-learning-tasks-and-models)
+  - [Drug Repurposing](#drug-repurposing)
+  - [Drug Target Interaction](#drug-target-interaction)
+  - [Compound Protein Interaction](#compound-protein-interaction)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
