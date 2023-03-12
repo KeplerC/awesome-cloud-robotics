@@ -22,6 +22,7 @@ A research-oriented collection of platforms, papers and software related to Clou
   - [Network Platforms](#network-platforms)
 - [Publications](#publications)
   - [Survey](#survey)
+  - [Management](#management)
   - [Network](#network)
   - [Security](#security)
   - [Serverless](#serverless)
