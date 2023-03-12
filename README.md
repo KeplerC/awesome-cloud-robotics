@@ -28,7 +28,8 @@ A research-oriented collection of platform, software and papers related to Cloud
 - [Scenarios](#scenarios)
   - [Grasp Planning](#grasp-planning)
   - [HealthCare](#healthcare)
-  - [Motion Planning](#motion-planning)
+- [Conferences](#conferences)
+- [Related Lists](#related-lists)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
