@@ -86,7 +86,7 @@ A research-oriented collection of platforms, papers and software related to Clou
 ### Fog Robotics 
 - [A Fog Robotic System for Dynamic Visual Servoing](https://ieeexplore.ieee.org/abstract/document/8793600) - Tian et al. ICRA 2019.
 - [A Fog Robotics Approach to Deep Robot Learning: Application to Object Recognition and Grasp Planning in Surface Decluttering](https://ieeexplore.ieee.org/abstract/document/8793690) - ICRA 2019.
-
+- [Low Latency Bounty Hunting and Geographically Adjacent Server Configuration for Real-Time Cloud Control] - Lofaro et al. ICRA 2016. 
 ## Scenarios 
 
 ### Grasp Planning
@@ -94,7 +94,6 @@ A research-oriented collection of platforms, papers and software related to Clou
 - [Dex-Net as a Service (DNaaS): A Cloud-Based Robust Robot Grasp Planning System](https://ieeexplore.ieee.org/abstract/document/8560447) - Li et al. CASE 2018.
 - [Cloud-based robot grasping with the google object recognition engine](https://ieeexplore.ieee.org/abstract/document/6631180) - Kehoe et al. ICRA 2013.
 
-### Monte-Carlo Grasp Perturbation Sampling
 
 ### HealthCare
 - [Cloud services for robotic nurses? Assessing legal and ethical issues in the use of cloud services for healthcare robots](https://ieeexplore.ieee.org/abstract/document/8593591) - Fosch-Villaronga et al. IROS 2018.
