@@ -29,7 +29,10 @@ A research-oriented collection of platforms, papers and software related to Clou
   - [Fog Robotics](#fog-robotics)
 - [Scenarios](#scenarios)
   - [Grasp Planning](#grasp-planning)
+  - [Monte-Carlo Grasp Perturbation Sampling](#monte-carlo-grasp-perturbation-sampling)
   - [HealthCare](#healthcare)
+  - [Motion and Path Planning](#motion-and-path-planning)
+  - [Mapping](#mapping)
 - [Conferences](#conferences)
 - [Related Lists](#related-lists)
 
