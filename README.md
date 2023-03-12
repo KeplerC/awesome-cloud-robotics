@@ -39,7 +39,7 @@ A research-oriented collection of platform, software and papers related to Cloud
 ### Development Platforms 
 - [ROS](https://www.ros.org/) - The de-facto open source framework for building general robot applications.
 - [ROS2](https://github.com/ros2/ros2) - A new version of ROS with different design and architecture.
-- [RoboEarth](https://roboearth.ethz.ch/) - an open source platform that allows robots to store, share, offload and collaborate.
+- [RoboEarth](https://roboearth.ethz.ch/) - An open source platform that allows robots to store, share, offload and collaborate.
 - [ERDOS](https://github.com/erdos-project/erdos) -  A platform for developing self-driving cars.
 
 ### Cloud Robotics Platforms 
@@ -48,7 +48,7 @@ A research-oriented collection of platform, software and papers related to Cloud
 
 ### Network Platforms 
 - [Husarnet VPN](https://github.com/husarnet/husarnet) - A P2P, secure network layer dedicated for ROS & ROS 2.
-- [FogROS2 SGC](https://github.com/data-capsule/fogros2-sgc) - a platform that disjoint ROS2 networks across heterogenous environment.
+- [FogROS2 SGC](https://github.com/data-capsule/fogros2-sgc) - An P2P secure routing framework that connects disjoint ROS2 networks across heterogenous environment.
 
 ## Publications 
 ### Survey
@@ -77,15 +77,15 @@ A research-oriented collection of platform, software and papers related to Cloud
 - [Cloud services for robotic nurses? Assessing legal and ethical issues in the use of cloud services for healthcare robots](https://ieeexplore.ieee.org/abstract/document/8593591) - Fosch-Villaronga et al. IROS 2018.
 
 ## Conferences 
-* [IEEE International Conference on Robotics and Automation (ICRA)](http://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra)
-* [IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)](http://www.iros.org/)
-* [Robotics: Science and Systems Conference (RSS)](http://www.roboticsconference.org/)
-* [IEEE International Conference on Automation Science and Engineering (CASE)](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/case)
-* [ROSCon](https://roscon.ros.org/)
+- [IEEE International Conference on Robotics and Automation (ICRA)](http://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra)
+- [IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)](http://www.iros.org/)
+- [Robotics: Science and Systems Conference (RSS)](http://www.roboticsconference.org/)
+- [IEEE International Conference on Automation Science and Engineering (CASE)](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/case)
+- [ROSCon](https://roscon.ros.org/)
 
 
 ## Related Lists 
-* [Awesome Robotics](https://github.com/kiloreux/awesome-robotics)
-* [Awesome Robotics](https://github.com/ahundt/awesome-robotics)
-* [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries)
-* [Awesome ROS2](https://github.com/fkromer/awesome-ros2)
+- [Awesome Robotics](https://github.com/kiloreux/awesome-robotics)
+- [Awesome Robotics](https://github.com/ahundt/awesome-robotics)
+- [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries)
+- [Awesome ROS2](https://github.com/fkromer/awesome-ros2)
