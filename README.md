@@ -22,6 +22,7 @@ A research-oriented collection of platform, software and papers related to Cloud
   - [Network Platforms](#network-platforms)
 - [Publications](#publications)
   - [Survey](#survey)
+  - [Management](#management)
   - [Network](#network)
   - [Security](#security)
   - [Serverless](#serverless)
