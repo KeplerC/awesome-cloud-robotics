@@ -45,11 +45,12 @@ A research-oriented collection of platforms, papers and software related to Clou
 - [ROS2](https://github.com/ros2/ros2) - A new version of ROS with different design and architecture.
 - [RoboEarth](https://roboearth.ethz.ch/) - An open source platform that allows robots to store, share, offload and collaborate.
 - [ERDOS](https://github.com/erdos-project/erdos) -  A platform for developing self-driving cars.
-- [AWS IoT Greengrass](https://aws.amazon.com/greengrass/) - A cloud platform that helps build, run, manage IoT and robotic devices.
 
 ### Cloud Robotics Platforms 
-- [Rapyuta](https://www.rapyuta-robotics.com/) - An open source Platform-as-a-Service (Paas) framework designed for robotics applications.
 - [FogROS2](https://github.com/BerkeleyAutomation/FogROS2) - An adaptive and extensible platform for cloud and fog Robotics Using ROS 2.
+- [Rapyuta](https://www.rapyuta-robotics.com/) - An open source Platform-as-a-Service (Paas) framework designed for robotics applications.
+- [Google Cloud Robotics Core](https://googlecloudrobotics.github.io/core/) - An Google Cloud Platform(GCP)-based platform for building and running robotic solutions.
+- [AWS IoT Greengrass](https://aws.amazon.com/greengrass/) - An AWS-based cloud platform that helps build, run, manage IoT and robotic devices.
 
 ### Network Platforms 
 - [Rosbridge](http://wiki.ros.org/rosbridge_suite) - A websocket server suite that provides a JSON API to ROS functionality for non-ROS programs.
@@ -59,7 +60,7 @@ A research-oriented collection of platforms, papers and software related to Clou
 
 ## Publications 
 ### Survey
-- [A Survey of Research on Cloud Robotics and Automation](https://goldberg.berkeley.edu/pubs/T-ASE-Cloud-RA-Survey-Paper-Final-2015.pdf) - Kehoe et al. 2015
+- [A Survey of Research on Cloud Robotics and Automation](https://goldberg.berkeley.edu/pubs/T-ASE-Cloud-RA-Survey-Paper-Final-2015.pdf) - Kehoe et al. 2015.
 - [Robots and the return to collaborative intelligence](https://www.nature.com/articles/s42256-018-0008-x) - Ken Goldberg Nature Machine Intelligence 2019. 
 - [Cloud, Fog, and Mist Computing: Advanced Robot Applications](https://ieeexplore.ieee.org/abstract/document/8960619) - Galambos et al. IEEE Systems, Man, and Cybernetics Magazine 2022. 
 
@@ -110,7 +111,7 @@ A research-oriented collection of platforms, papers and software related to Clou
 - [IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)](http://www.iros.org/)
 - [Robotics: Science and Systems Conference (RSS)](http://www.roboticsconference.org/)
 - [IEEE International Conference on Automation Science and Engineering (CASE)](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/case)
-- [ROSCon](https://roscon.ros.org/)
+- [ROSCon](https://roscon.ros.org/) - A ROS developers conference.
 
 
 ## Related Lists 
