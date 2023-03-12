@@ -1,6 +1,6 @@
-# Awesome Computational Biology [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Cloud Robotics [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A knowledge collection of databases, software and papers related to computational biology.
+A research-oriented collection of platform, software and papers related to Cloud Robotics.
 
 > Cloud robotics is a field of robotics that attempts to invoke cloud technologies such as cloud computing, cloud 
 > storage, and other Internet technologies centered on the benefits of converged infrastructure and shared 
@@ -35,8 +35,9 @@ A knowledge collection of databases, software and papers related to computationa
 ## Platforms 
 
 ### Development Platforms 
-- [ROS and ROS2](https://github.com/ros2/ros2) - The largest open source platform for building general robot applications 
-- [RoboEarth](https://roboearth.ethz.ch/)
+- [ROS](https://www.ros.org/) - The de-facto open source framework for building general robot applications 
+- [ROS2](https://github.com/ros2/ros2) - A new version of ROS with different design and architecture 
+- [RoboEarth](https://roboearth.ethz.ch/) - an open source platform that allows robots to store, share, offload and collaborate
 - [ERDOS](https://github.com/erdos-project/erdos) -  A platform for developing self-driving cars 
 
 ### Cloud Robotics Platforms 
@@ -69,8 +70,18 @@ A knowledge collection of databases, software and papers related to computationa
 ### HealthCare
 - [Cloud services for robotic nurses? Assessing legal and ethical issues in the use of cloud services for healthcare robots](https://ieeexplore.ieee.org/abstract/document/8593591) - Fosch-Villaronga et al. IROS 2018
 
-### Motion Planning 
-- 
+## Conferences 
+* [IEEE International Conference on Robotics and Automation (ICRA)](http://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra)
+* [IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)](http://www.iros.org/)
+* [Robotics: Science and Systems Conference (RSS)](http://www.roboticsconference.org/)
+* [IEEE International Conference on Automation Science and Engineering (CASE)](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/case)
+
+
+## Related Lists 
+* [Awesome Robotics](https://github.com/kiloreux/awesome-robotics)
+* [Awesome Robotics](https://github.com/ahundt/awesome-robotics)
+* [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries)
+* [Awesome ROS2](https://github.com/fkromer/awesome-ros2)
 
 <!-- ## Databases
 ### Compound
