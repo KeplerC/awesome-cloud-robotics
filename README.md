@@ -54,12 +54,20 @@ A research-oriented collection of platform, software and papers related to Cloud
 ### Survey
 - [A Survey of Research on Cloud Robotics and Automation](https://goldberg.berkeley.edu/pubs/T-ASE-Cloud-RA-Survey-Paper-Final-2015.pdf) - Kehoe et al. 
 
+### Management 
+- [EMS: A Massive Computational Experiment Management System towards Data-driven Robotics](https://sites.google.com/view/project-emsr) - Lin et al. ICRA 2023. 
+- [FogROS: An Adaptive Framework for Automating Fog Robotics Deployment](https://arxiv.org/abs/2108.11355) - Chen et al. CASE 2021. 
+- [FogROS2: An Adaptive Platform for Cloud and Fog Robotics Using ROS 2](https://arxiv.org/abs/2205.09778) - Ichnowski et al. ICRA 2023. 
+- [RobotCore: An Open Architecture for Hardware Acceleration in ROS 2](https://ieeexplore.ieee.org/abstract/document/9982082) Mayoral-Vilches et al. IROS 2022.
+
 ### Network 
 - [AFR: An Efficient Buffering Algorithm for Cloud Robotic Systems](https://ieeexplore.ieee.org/abstract/document/9981400) - Wang et al. IROS 2022.
 - [Learning Important Regions via Attention for Video Streaming on Cloud Robotics](https://ieeexplore.ieee.org/abstract/document/9981132) - Itsumi et al. IROS 2022.
 
 ### Security 
 - [Privacy-Preserving Grasp Planning](https://goldberg.berkeley.edu/pubs/jeff_case2016_privacy_v11.pdf) - Mahler et al. CASE 2016.
+- [SROS2: Usable Cyber Security Tools for ROS 2](https://arxiv.org/abs/2208.02615) - Mayoral-Vilches et al. 
+
 ### Serverless 
 - [Fog Robotics Algorithms for Distributed Motion Planning Using Lambda Serverless Computing](https://ieeexplore.ieee.org/abstract/document/9196651) - Ichnowski et al. ICRA 2020.
 - [Serverless Architecture for Service Robot Management System](https://ieeexplore.ieee.org/abstract/document/9561824) - Nishimiya et al. ICRA 2021.
