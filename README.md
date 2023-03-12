@@ -44,8 +44,12 @@ A research-oriented collection of platform, software and papers related to Cloud
 - [Rapyuta](https://www.rapyuta-robotics.com/) - An open source Platform-as-a-Service (Paas) framework designed for robotics applications
 - [FogROS2](https://github.com/BerkeleyAutomation/FogROS2) - An adaptive and extensible platform for cloud and fog Robotics Using ROS 2
 
+### Network Platforms 
+- [Husarnet VPN](https://github.com/husarnet/husarnet) - A P2P, secure network layer dedicated for ROS & ROS 2
+- [FogROS2 SGC](https://github.com/data-capsule/fogros2-sgc) - a platform that disjoint ROS2 networks across heterogenous environment
+
 ## Publications 
-### Surveys 
+### Survey
 - [A Survey of Research on Cloud Robotics and Automation](https://goldberg.berkeley.edu/pubs/T-ASE-Cloud-RA-Survey-Paper-Final-2015.pdf) - Kehoe et al. 
 
 ### Network 
