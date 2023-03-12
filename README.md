@@ -33,14 +33,30 @@ A knowledge collection of databases, software and papers related to computationa
 ### Surveys 
 - [A Survey of Research on Cloud Robotics and Automation](https://goldberg.berkeley.edu/pubs/T-ASE-Cloud-RA-Survey-Paper-Final-2015.pdf) - Kehoe et al. 
 
-
-### Fog Robotics 
+### Network 
+- [AFR: An Efficient Buffering Algorithm for Cloud Robotic Systems](https://ieeexplore.ieee.org/abstract/document/9981400) - Wang et al. IROS 2022
+- [Learning Important Regions via Attention for Video Streaming on Cloud Robotics](https://ieeexplore.ieee.org/abstract/document/9981132) - Itsumi et al. IROS 2022
 
 ### Security 
+- [Privacy-Preserving Grasp Planning](https://goldberg.berkeley.edu/pubs/jeff_case2016_privacy_v11.pdf) - Mahler et al. CASE 2016
+### Serverless 
+- [Fog Robotics Algorithms for Distributed Motion Planning Using Lambda Serverless Computing](https://ieeexplore.ieee.org/abstract/document/9196651) - Ichnowski et al. ICRA 2020
+- [Serverless Architecture for Service Robot Management System](https://ieeexplore.ieee.org/abstract/document/9561824) - Nishimiya et al. ICRA 2021
+
+### Fog Robotics 
+- [A Fog Robotic System for Dynamic Visual Servoing](https://ieeexplore.ieee.org/abstract/document/8793600) - Tian et al. ICRA 2019
+- [A Fog Robotics Approach to Deep Robot Learning: Application to Object Recognition and Grasp Planning in Surface Decluttering](https://ieeexplore.ieee.org/abstract/document/8793690) - ICRA 2019 
 
 ## Scenarios 
 
-### 
+### Grasp Planning
+- [A Cloud Robot System Using the Dexterity Network and Berkeley Robotics and Automation as a Service (Brass)](https://ieeexplore.ieee.org/abstract/document/7989192) - Tian et al. ICRA 2017 
+- [Dex-Net as a Service (DNaaS): A Cloud-Based Robust Robot Grasp Planning System](https://ieeexplore.ieee.org/abstract/document/8560447) - Li et al. CASE 2018
+### HealthCare
+- [Cloud services for robotic nurses? Assessing legal and ethical issues in the use of cloud services for healthcare robots](https://ieeexplore.ieee.org/abstract/document/8593591) - Fosch-Villaronga et al. IROS 2018
+
+### Motion Planning 
+- 
 
 <!-- ## Databases
 ### Compound
