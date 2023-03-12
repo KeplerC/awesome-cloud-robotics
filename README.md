@@ -72,7 +72,8 @@ A research-oriented collection of platform, software and papers related to Cloud
 
 ### Grasp Planning
 - [A Cloud Robot System Using the Dexterity Network and Berkeley Robotics and Automation as a Service (Brass)](https://ieeexplore.ieee.org/abstract/document/7989192) - Tian et al. ICRA 2017.
-- [Dex-Net as a Service (DNaaS): A Cloud-Based Robust Robot Grasp Planning System](https://ieeexplore.ieee.org/abstract/document/8560447) - Li et al. CASE 2018
+- [Dex-Net as a Service (DNaaS): A Cloud-Based Robust Robot Grasp Planning System](https://ieeexplore.ieee.org/abstract/document/8560447) - Li et al. CASE 2018.
+
 ### HealthCare
 - [Cloud services for robotic nurses? Assessing legal and ethical issues in the use of cloud services for healthcare robots](https://ieeexplore.ieee.org/abstract/document/8593591) - Fosch-Villaronga et al. IROS 2018.
 
