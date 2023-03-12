@@ -16,17 +16,19 @@ A knowledge collection of databases, software and papers related to computationa
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [Local Demo](#local-demo)
-- [Build FogROS2 SGC](#build-fogros2-sgc)
-  - [Install dependencies](#install-dependencies)
-    - [Install Rust](#install-rust)
-    - [Install ROS](#install-ros)
-    - [Build the repo](#build-the-repo)
-- [Run with Different Machines](#run-with-different-machines)
-    - [Certificate Generation](#certificate-generation)
-    - [Run with Environment Variables](#run-with-environment-variables)
-    - [Run ROS2 talker and listener](#run-ros2-talker-and-listener)
-  - [TODOs and Known issues](#todos-and-known-issues)
+- [Platforms](#platforms)
+  - [Development Platforms](#development-platforms)
+  - [Cloud Robotics Platforms](#cloud-robotics-platforms)
+- [Publications](#publications)
+  - [Surveys](#surveys)
+  - [Network](#network)
+  - [Security](#security)
+  - [Serverless](#serverless)
+  - [Fog Robotics](#fog-robotics)
+- [Scenarios](#scenarios)
+  - [Grasp Planning](#grasp-planning)
+  - [HealthCare](#healthcare)
+  - [Motion Planning](#motion-planning)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
