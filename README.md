@@ -60,8 +60,8 @@ A research-oriented collection of platforms, papers and software related to Clou
 
 ## Publications 
 ### Survey
-- [A Survey of Research on Cloud Robotics and Automation](https://goldberg.berkeley.edu/pubs/T-ASE-Cloud-RA-Survey-Paper-Final-2015.pdf) - Kehoe et al. 2015.
-- [Robots and the return to collaborative intelligence](https://www.nature.com/articles/s42256-018-0008-x) - Ken Goldberg Nature Machine Intelligence 2019. 
+- [A Survey of Research on Cloud Robotics and Automation](https://goldberg.berkeley.edu/pubs/T-ASE-Cloud-RA-Survey-Paper-Final-2015.pdf) - Kehoe et al. IEEE Transactions of Automation Science and Engineering 2015.
+- [Robots and the return to collaborative intelligence](https://www.nature.com/articles/s42256-018-0008-x) - Ken Goldberg. Nature Machine Intelligence 2019. 
 - [Cloud, Fog, and Mist Computing: Advanced Robot Applications](https://ieeexplore.ieee.org/abstract/document/8960619) - Galambos et al. IEEE Systems, Man, and Cybernetics Magazine 2022. 
 
 ### Management 
