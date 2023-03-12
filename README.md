@@ -80,6 +80,7 @@ A research-oriented collection of platform, software and papers related to Cloud
 * [IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)](http://www.iros.org/)
 * [Robotics: Science and Systems Conference (RSS)](http://www.roboticsconference.org/)
 * [IEEE International Conference on Automation Science and Engineering (CASE)](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/case)
+* [ROSCon](https://roscon.ros.org/)
 
 
 ## Related Lists 
@@ -87,7 +88,3 @@ A research-oriented collection of platform, software and papers related to Cloud
 * [Awesome Robotics](https://github.com/ahundt/awesome-robotics)
 * [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries)
 * [Awesome ROS2](https://github.com/fkromer/awesome-ros2)
-
-<!-- ## Databases
-### Compound
-- [PubChem](https://pubchem.ncbi.nlm.nih.gov/) - One of the biggest chemical database such as compounds, genes and proteins. -->
