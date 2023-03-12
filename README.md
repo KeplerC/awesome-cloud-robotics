@@ -52,13 +52,16 @@ A research-oriented collection of platforms, papers and software related to Clou
 - [FogROS2](https://github.com/BerkeleyAutomation/FogROS2) - An adaptive and extensible platform for cloud and fog Robotics Using ROS 2.
 
 ### Network Platforms 
-- [Rosbridge](http://wiki.ros.org/rosbridge_suite) - a websocket server that provides a JSON API to ROS functionality for non-ROS programs.
+- [Rosbridge](http://wiki.ros.org/rosbridge_suite) - A websocket server suite that provides a JSON API to ROS functionality for non-ROS programs.
+- [FogROS2 SGC](https://github.com/data-capsule/fogros2-sgc) - A P2P secure routing framework that connects disjoint ROS2 networks across heterogenous environment.
 - [Husarnet VPN](https://github.com/husarnet/husarnet) - A P2P, secure network layer dedicated for ROS & ROS 2.
-- [FogROS2 SGC](https://github.com/data-capsule/fogros2-sgc) - An P2P secure routing framework that connects disjoint ROS2 networks across heterogenous environment.
+
 
 ## Publications 
 ### Survey
-- [A Survey of Research on Cloud Robotics and Automation](https://goldberg.berkeley.edu/pubs/T-ASE-Cloud-RA-Survey-Paper-Final-2015.pdf) - Kehoe et al. 
+- [A Survey of Research on Cloud Robotics and Automation](https://goldberg.berkeley.edu/pubs/T-ASE-Cloud-RA-Survey-Paper-Final-2015.pdf) - Kehoe et al. 2015
+- [Robots and the return to collaborative intelligence](https://www.nature.com/articles/s42256-018-0008-x) - Ken Goldberg Nature Machine Intelligence 2019. 
+- [Cloud, Fog, and Mist Computing: Advanced Robot Applications](https://ieeexplore.ieee.org/abstract/document/8960619) - Galambos et al. IEEE Systems, Man, and Cybernetics Magazine 2022. 
 
 ### Management 
 - [EMS: A Massive Computational Experiment Management System towards Data-driven Robotics](https://sites.google.com/view/project-emsr) - Lin et al. ICRA 2023. 
