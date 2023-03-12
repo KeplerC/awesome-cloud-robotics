@@ -52,7 +52,7 @@ A research-oriented collection of platforms, papers and software related to Clou
 - [FogROS2](https://github.com/BerkeleyAutomation/FogROS2) - An adaptive and extensible platform for cloud and fog Robotics Using ROS 2.
 
 ### Network Platforms 
-- [Rosbridge](http://wiki.ros.org/rosbridge_suite) - a websocket server that provides a JSON API to ROS functionality for non-ROS programs
+- [Rosbridge](http://wiki.ros.org/rosbridge_suite) - a websocket server that provides a JSON API to ROS functionality for non-ROS programs.
 - [Husarnet VPN](https://github.com/husarnet/husarnet) - A P2P, secure network layer dedicated for ROS & ROS 2.
 - [FogROS2 SGC](https://github.com/data-capsule/fogros2-sgc) - An P2P secure routing framework that connects disjoint ROS2 networks across heterogenous environment.
 
@@ -111,7 +111,7 @@ A research-oriented collection of platforms, papers and software related to Clou
 
 
 ## Related Lists 
-- [Awesome Robotics](https://github.com/kiloreux/awesome-robotics) - by kiloreux.
-- [Awesome Robotics](https://github.com/ahundt/awesome-robotics) - by ahundt.
+- [Awesome Robotics](https://github.com/kiloreux/awesome-robotics) - By kiloreux.
+- [Awesome Robotics](https://github.com/ahundt/awesome-robotics) - By ahundt.
 - [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries)
 - [Awesome ROS2](https://github.com/fkromer/awesome-ros2)
