@@ -42,7 +42,7 @@ A research-oriented collection of platforms, papers and software related to Clou
 - [ROS2](https://github.com/ros2/ros2) - A new version of ROS with different design and architecture.
 - [RoboEarth](https://roboearth.ethz.ch/) - An open source platform that allows robots to store, share, offload and collaborate.
 - [ERDOS](https://github.com/erdos-project/erdos) -  A platform for developing self-driving cars.
-- [AWS IoT Greengrass](https://aws.amazon.com/greengrass/) - A cloud platform that helps build, run, manage IoT and robotic devices
+- [AWS IoT Greengrass](https://aws.amazon.com/greengrass/) - A cloud platform that helps build, run, manage IoT and robotic devices.
 
 ### Cloud Robotics Platforms 
 - [Rapyuta](https://www.rapyuta-robotics.com/) - An open source Platform-as-a-Service (Paas) framework designed for robotics applications.
@@ -74,7 +74,8 @@ A research-oriented collection of platforms, papers and software related to Clou
 ### Serverless 
 - [Fog Robotics Algorithms for Distributed Motion Planning Using Lambda Serverless Computing](https://ieeexplore.ieee.org/abstract/document/9196651) - Ichnowski et al. ICRA 2020.
 - [Serverless Architecture for Service Robot Management System](https://ieeexplore.ieee.org/abstract/document/9561824) - Nishimiya et al. ICRA 2021.
-- [Serverless multi-query motion planning for fog robotics](https://goldberg.berkeley.edu/pubs/ICRA21-ichnowski-serverless-motion-planning-submitted.pdf) - Anand et al. ICRA 2021
+- [Serverless multi-query motion planning for fog robotics](https://goldberg.berkeley.edu/pubs/ICRA21-ichnowski-serverless-motion-planning-submitted.pdf) - Anand et al. ICRA 2021.
+
 ### Fog Robotics 
 - [A Fog Robotic System for Dynamic Visual Servoing](https://ieeexplore.ieee.org/abstract/document/8793600) - Tian et al. ICRA 2019.
 - [A Fog Robotics Approach to Deep Robot Learning: Application to Object Recognition and Grasp Planning in Surface Decluttering](https://ieeexplore.ieee.org/abstract/document/8793690) - ICRA 2019.
@@ -84,7 +85,7 @@ A research-oriented collection of platforms, papers and software related to Clou
 ### Grasp Planning
 - [A Cloud Robot System Using the Dexterity Network and Berkeley Robotics and Automation as a Service (Brass)](https://ieeexplore.ieee.org/abstract/document/7989192) - Tian et al. ICRA 2017.
 - [Dex-Net as a Service (DNaaS): A Cloud-Based Robust Robot Grasp Planning System](https://ieeexplore.ieee.org/abstract/document/8560447) - Li et al. CASE 2018.
-- [Cloud-based robot grasping with the google object recognition engine](https://ieeexplore.ieee.org/abstract/document/6631180) - Kehoe et al. ICRA 2013 
+- [Cloud-based robot grasping with the google object recognition engine](https://ieeexplore.ieee.org/abstract/document/6631180) - Kehoe et al. ICRA 2013.
 
 ### Monte-Carlo Grasp Perturbation Sampling
 
@@ -92,11 +93,11 @@ A research-oriented collection of platforms, papers and software related to Clou
 - [Cloud services for robotic nurses? Assessing legal and ethical issues in the use of cloud services for healthcare robots](https://ieeexplore.ieee.org/abstract/document/8593591) - Fosch-Villaronga et al. IROS 2018.
 
 ### Motion and Path Planning 
-- [Path planning as a service PPaaS: Cloud-based robotic path planning](https://ieeexplore.ieee.org/document/7090603) Lam et al. ROBIO 2014. 
-- [Cloud Automation: Precomputing Roadmaps for Flexible Manipulation](https://ieeexplore.ieee.org/document/7124626) Bekris et al. IEEE Robotics & Automation Magazine 2015. 
+- [Path planning as a service PPaaS: Cloud-based robotic path planning](https://ieeexplore.ieee.org/document/7090603) - Lam et al. ROBIO 2014. 
+- [Cloud Automation: Precomputing Roadmaps for Flexible Manipulation](https://ieeexplore.ieee.org/document/7124626) - Bekris et al. IEEE Robotics & Automation Magazine 2015. 
 
 ### Mapping 
-- [Cloud-Based Collaborative 3D Mapping in Real-Time With Low-Cost Robots](https://ieeexplore.ieee.org/document/7057681) Mohanarajah et al. IEEE Trans. Automation Science and Engineering 2015. 
+- [Cloud-Based Collaborative 3D Mapping in Real-Time With Low-Cost Robots](https://ieeexplore.ieee.org/document/7057681) - Mohanarajah et al. IEEE Trans. Automation Science and Engineering 2015. 
 
 ## Conferences 
 - [IEEE International Conference on Robotics and Automation (ICRA)](http://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra)
@@ -107,7 +108,7 @@ A research-oriented collection of platforms, papers and software related to Clou
 
 
 ## Related Lists 
-- [Awesome Robotics](https://github.com/kiloreux/awesome-robotics)
-- [Awesome Robotics](https://github.com/ahundt/awesome-robotics)
+- [Awesome Robotics](https://github.com/kiloreux/awesome-robotics) - by kiloreux.
+- [Awesome Robotics](https://github.com/ahundt/awesome-robotics) - by ahundt.
 - [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries)
 - [Awesome ROS2](https://github.com/fkromer/awesome-ros2)
