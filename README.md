@@ -10,6 +10,8 @@ A research-oriented collection of platforms, papers and software related to Clou
 > data or code from a network to support its operation, i.e., where not all sensing, computation, and memory 
 > is integrated into a single standalone system. - James Kuffner
 
+[Submit PR to help maintain the list](./contributing.md)
+
 ## Contents
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
