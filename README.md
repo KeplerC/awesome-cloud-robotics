@@ -10,7 +10,7 @@ A research-oriented collection of platforms, papers and software related to Clou
 > data or code from a network to support its operation, i.e., where not all sensing, computation, and memory 
 > is integrated into a single standalone system. - James Kuffner
 
-[Submit PR to help maintain the list](./contributing.md)
+[Submit PR to help maintain the list](https://github.com/KeplerC/awesome-cloud-robotics/blob/main/contributing.md)
 
 ## Contents
 
@@ -87,7 +87,7 @@ A research-oriented collection of platforms, papers and software related to Clou
 ### Fog Robotics 
 - [A Fog Robotic System for Dynamic Visual Servoing](https://ieeexplore.ieee.org/abstract/document/8793600) - Tian et al. ICRA 2019.
 - [A Fog Robotics Approach to Deep Robot Learning: Application to Object Recognition and Grasp Planning in Surface Decluttering](https://ieeexplore.ieee.org/abstract/document/8793690) - ICRA 2019.
-- [Low Latency Bounty Hunting and Geographically Adjacent Server Configuration for Real-Time Cloud Control] - Lofaro et al. ICRA 2016. 
+- [Low Latency Bounty Hunting and Geographically Adjacent Server Configuration for Real-Time Cloud Control](https://ieeexplore.ieee.org/document/7487738) - Lofaro et al. ICRA 2016. 
 ## Scenarios 
 
 ### Grasp Planning
