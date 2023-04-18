@@ -1,22 +1,14 @@
 # Awesome Cloud Robotics [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A research-oriented collection of platforms, papers and software related to Cloud Robotics.
+A curated collection of awesome platforms, papers and software related to Cloud Robotics.
 
-> Cloud robotics is a field of robotics that attempts to invoke cloud technologies such as cloud computing, cloud 
-> storage, and other Internet technologies centered on the benefits of converged infrastructure and shared 
-> services for robotics. - [Wikipedia](https://en.wikipedia.org/wiki/Cloud_robotics)
+> Cloud robotics is a field of robotics that attempts to invoke cloud technologies such as cloud computing, cloud storage, and other Internet technologies centered on the benefits of converged infrastructure and shared services for robotics. - [Wikipedia](https://en.wikipedia.org/wiki/Cloud_robotics)
 
-> Cloud Robot and Automation systems can be broadly defined as any robot or automation system that relies on 
-> data or code from a network to support its operation, i.e., where not all sensing, computation, and memory 
-> is integrated into a single standalone system. - James Kuffner
+> Cloud Robot and Automation systems can be broadly defined as any robot or automation system that relies on  data or code from a network to support its operation, i.e., where not all sensing, computation, and memory is integrated into a single standalone system. - James Kuffner
 
 [Submit PR to help maintain the list](https://github.com/KeplerC/awesome-cloud-robotics/blob/main/contributing.md)
 
 ## Contents
-
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
 
 - [Platforms](#platforms)
   - [Development Platforms](#development-platforms)
@@ -36,8 +28,6 @@ A research-oriented collection of platforms, papers and software related to Clou
   - [Mapping](#mapping)
 - [Conferences](#conferences)
 - [Related Lists](#related-lists)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Platforms 
 
