@@ -1,6 +1,6 @@
 # Awesome Cloud Robotics [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated collection of awesome platforms, papers and software related to Cloud Robotics.
+A curated collection of awesome platforms, papers and software related to Cloud Computing frameworks for Robotics.
 
 > Cloud robotics is a field of robotics that attempts to invoke cloud technologies such as cloud computing, cloud storage, and other Internet technologies centered on the benefits of converged infrastructure and shared services for robotics. - [Wikipedia](https://en.wikipedia.org/wiki/Cloud_robotics)
 
