@@ -56,9 +56,10 @@ A curated collection of awesome platforms, papers and software related to Cloud 
 - [Cloud, Fog, and Mist Computing: Advanced Robot Applications](https://ieeexplore.ieee.org/abstract/document/8960619) - Galambos et al. IEEE Systems, Man, and Cybernetics Magazine 2022. 
 
 ### Management 
-- [EMS: A Massive Computational Experiment Management System towards Data-driven Robotics](https://sites.google.com/view/project-emsr) - Lin et al. ICRA 2023. 
+- [EMS: A Massive Computational Experiment Management System towards Data-driven Robotics](https://sites.google.com/view/project-emsr) - Lin et al. ICRA 2023.
 - [FogROS: An Adaptive Framework for Automating Fog Robotics Deployment](https://arxiv.org/abs/2108.11355) - Chen et al. CASE 2021. 
-- [FogROS2: An Adaptive Platform for Cloud and Fog Robotics Using ROS 2](https://arxiv.org/abs/2205.09778) - Ichnowski et al. ICRA 2023. 
+- [FogROS2: An Adaptive Platform for Cloud and Fog Robotics Using ROS 2](https://arxiv.org/abs/2205.09778) - Ichnowski et al. ICRA 2023.
+- [RILaaS: Robot Inference and Learning as a Service] - Tanwani et al. IEEE RAL 2020
 - [RobotCore: An Open Architecture for Hardware Acceleration in ROS 2](https://ieeexplore.ieee.org/abstract/document/9982082) - Mayoral-Vilches et al. IROS 2022.
 
 ### Network 
